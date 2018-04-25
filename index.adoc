@@ -1,0 +1,12 @@
+= Introducció a Asciidoc
+:lang: ca
+include::locale/attributes.adoc[]
+:author: Guillem Marpons
+:email: gmarpons@mailbox.org
+:revnumber: 1.0
+:revdate: {docdatetime}
+:toc:
+
+include::Asciidoc.adoc[]
+
+include::Conversio.adoc[]
