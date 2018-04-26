@@ -1,1 +1,13 @@
-== Convertir documents existens a Asciidoc
+== Convertir documents existents a Asciidoc
+
+=== Plugin Google Docs
+
+https://chrome.google.com/webstore/detail/asciidoc-processor/eghlmnhjljbjodpeehjjcgfcjegcfbhk?hl=en[Web del projecte].
+
+=== Pandoc
+
+Hi ha una https://pandoc.org/try/[demo].
+
+Però per treballar realment amb Pandoc cal https://pandoc.org/installing.html[instal·lar-lo].
+
+WARNING: TODO: Enllaç a documentació conversió.

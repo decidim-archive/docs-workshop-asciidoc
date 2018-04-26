@@ -1,1 +1,81 @@
 == Escriure en format Asciidoc
+
+=== Encapçalaments de seccions
+
+==== Encapçalament de 3er nivell
+
+===== Encapçalament de 4t nivell
+
+Només tindrem un encapçalament de nivell 0 (un sol "`=`"), que serà el títol del document.
+
+[#para]
+=== Paràgrafs
+
+Els paràgrafs es separen amb una o més línies en blanc. Els salts de línia manual dins d'un mateix paràgraf no tenen cap efecte.
+
+Això és un altre paràgraf, que comença després de la línia en blanc.
+
+=== Text amb format
+
+Puc escriure *negreta*, _cursiva_, `monoespai`, o ...
+
+=== Llistes
+
+==== Sense ordre (itemitzacions)
+
+* Un item
+* Un altre item
+
+==== Amb ordre (enumeracions)
+
+. Primer item
+. 2on item
+
+==== Checklist
+
+==== Definicions
+
+==== Pregunta - resposta
+
+.Exercici 1
+****
+Recrear en Asciidoc l'apartat 2.3 de https://decidim.org/pdf/features-roadmap-es.pdf.
+****
+
+=== Enllaços
+
+==== Externs
+
+==== Relatius
+
+==== Interns
+
+==== Identificadors explícits
+
+=== Inclusió de fitxers
+
+=== Document Header
+
+.Exercici 2
+****
+Mou el contingut de l'exercici 1 a un fitxer propi d'exercicis i inclou aquest nou fitxer des del fitxer `index.adoc`.
+****
+
+=== Imatges i videos
+
+==== Bloc
+
+==== Inline
+
+=== Taules
+
+[%header, cols="1,1"]
+|===
+|Name of Column 1
+|Name of Column 2
+|===
+
+.Exercici 3
+****
+Demostra que Asciidoc és *meme-friendly*.
+****

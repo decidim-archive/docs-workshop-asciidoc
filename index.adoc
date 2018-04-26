@@ -5,6 +5,8 @@ include::locale/attributes.adoc[]
 :email: gmarpons@mailbox.org
 :revnumber: 1.0
 :revdate: {docdatetime}
+:description: Document de suport per a la sessió de formació en Asciidoc
+:keywords: AsciiDoc, Asciidoctor, formació, Decidim
 :toc:
 
 include::Asciidoc.adoc[]
